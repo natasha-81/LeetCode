@@ -25,3 +25,15 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 I regularly update this repository with new LeetCode solutions as I continue my DSA journey.
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/natasha-81/LeetCode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/natasha-81/LeetCode/tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
