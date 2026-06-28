@@ -34,6 +34,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0001-two-sum](https://github.com/natasha-81/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/natasha-81/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/natasha-81/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,16 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
