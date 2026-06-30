@@ -32,6 +32,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/natasha-81/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/natasha-81/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,6 +60,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -71,4 +73,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
