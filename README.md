@@ -77,4 +77,12 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
