@@ -32,6 +32,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/natasha-81/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/natasha-81/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natasha-81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/natasha-81/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
