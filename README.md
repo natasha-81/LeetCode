@@ -40,6 +40,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/natasha-81/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
