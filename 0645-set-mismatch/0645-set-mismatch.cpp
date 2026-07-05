@@ -2,21 +2,30 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         int n = nums.size();
-        vector<int> hash(n+1,0);
+        int calcXor = 0;
         for (int i=0; i<n; i++) {
-            hash[nums[i]]++;
+            calcXor ^= nums[i];
+            calcXor ^= (i+1);
         }
-        int repeating = -1;
-        int missing = -1;
-        for (int i=1; i<=n; i++) {
-            if (hash[i]==2) {
-                repeating = i;
+        int findBit = calcXor & -calcXor;
+        int zero = 0, one = 0;
+        for (int i=0; i<n; i++) {
+            if (nums[i] & findBit) {
+                one ^= nums[i];
             }
-            else if (hash[i]==0) {
-                missing = i;
+            else {
+                zero ^= nums[i];
             }
-            if (missing!=-1 && repeating!=-1) break;
+            if ((i+1) & findBit) {
+                one ^= (i+1);
+            }
+            else {
+                zero ^= (i+1);
+            }
         }
-        return {repeating,missing};
+        for (int x: nums) {  // find repeating element
+            if (x==zero) return {zero,one};
+        }
+        return {one,zero};
     }
 };
