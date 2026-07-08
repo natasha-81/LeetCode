@@ -47,6 +47,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/natasha-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/natasha-81/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
