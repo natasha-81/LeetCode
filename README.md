@@ -139,4 +139,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/natasha-81/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/natasha-81/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
