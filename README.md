@@ -72,6 +72,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0015-3sum](https://github.com/natasha-81/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/natasha-81/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/natasha-81/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/natasha-81/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/natasha-81/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/natasha-81/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Stack
