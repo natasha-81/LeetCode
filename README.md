@@ -76,6 +76,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0031-next-permutation](https://github.com/natasha-81/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/natasha-81/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
@@ -90,6 +91,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/natasha-81/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0056-merge-intervals](https://github.com/natasha-81/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/natasha-81/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/natasha-81/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
@@ -158,6 +161,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/natasha-81/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natasha-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -177,4 +181,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
