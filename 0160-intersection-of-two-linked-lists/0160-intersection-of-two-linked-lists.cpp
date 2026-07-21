@@ -8,17 +8,33 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if (headA == NULL || headB == NULL) return NULL;
-        ListNode* temp1 = headA;
-        ListNode* temp2 = headB;
-        while (temp1 != temp2) {
-            temp1 = temp1->next;
-            temp2 = temp2->next;
-            if (temp1 == temp2) return temp1;
-            if (temp1 == NULL) temp1 = headB;
-            if (temp2 == NULL) temp2 = headA;
+    int getDifference(ListNode* headA, ListNode* headB) {
+        int len1=0, len2=0;
+        while (headA != NULL || headB != NULL) {
+            if (headA != NULL ) {
+                ++len1;
+                headA = headA->next;
+            }
+            if (headB != NULL) {
+                ++len2;
+                headB = headB->next;
+            }
         }
-        return temp1;
+        return len1 - len2;
+    }
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int diff = getDifference(headA,headB);
+        if (diff < 0) {
+            while (diff++ != 0) headB = headB->next;
+        }
+        else {
+            while (diff-- != 0) headA = headA->next;
+        }
+        while (headA != NULL) {
+            if (headA == headB) return headA;
+            headB = headB->next;
+            headA = headA->next;
+        }
+        return NULL;
     }
 };
