@@ -122,6 +122,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Greedy
 |  |
@@ -162,6 +163,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/natasha-81/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0147-insertion-sort-list) |
@@ -179,6 +181,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
