@@ -167,6 +167,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/natasha-81/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/natasha-81/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/natasha-81/LeetCode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
@@ -185,6 +186,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/natasha-81/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
