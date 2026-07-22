@@ -48,6 +48,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0560-subarray-sum-equals-k](https://github.com/natasha-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/natasha-81/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -176,6 +177,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0160-intersection-of-two-linked-lists](https://github.com/natasha-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natasha-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -199,4 +202,16 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
