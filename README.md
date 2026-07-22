@@ -177,6 +177,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0160-intersection-of-two-linked-lists](https://github.com/natasha-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natasha-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -209,9 +210,14 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
