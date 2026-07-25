@@ -181,6 +181,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natasha-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -210,6 +211,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
