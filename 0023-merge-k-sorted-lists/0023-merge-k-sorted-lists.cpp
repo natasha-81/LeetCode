@@ -10,38 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* merge2lists(ListNode* list1, ListNode* list2) {
-        if (list1==NULL && list2==NULL) return NULL;
-        if (list1==NULL && list2!=NULL) return list2;
-        if (list2==NULL && list1!=NULL) return list1;
+    struct compare {
+        bool operator() (ListNode* a, ListNode* b) {
+            return a->val > b->val;
+        }
+    };
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+        for (auto l: lists) {
+            if (l!=NULL) pq.push(l); // push first nodes of each list
+        }
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
-        while (list1 != NULL && list2 != NULL) {
-            if (list1 -> val <= list2->val) {
-                temp->next = list1;
-                temp = list1;
-                list1 = list1->next;
-            }
-            else {
-                temp->next = list2;
-                temp = list2;
-                list2 = list2->next;
+        while (!pq.empty()) {
+            ListNode* node = pq.top(); // access minimum node
+            pq.pop();
+            temp->next = node;
+            temp = temp->next;
+            if (node-> next != NULL) {
+                pq.push(node->next);
             }
         }
-            if (list1 != NULL) {
-                temp->next = list1;
-            }
-            else {
-                temp->next = list2;
-            }
         return dummy->next;
-    }
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) return NULL;
-        ListNode* result = lists[0];
-        for (int i=1; i<lists.size(); i++){
-            result = merge2lists(result, lists[i]);
-        }
-        return result;
     }
 };
