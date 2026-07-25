@@ -127,6 +127,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/natasha-81/LeetCode/tree/master/0263-ugly-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Greedy
 |  |
