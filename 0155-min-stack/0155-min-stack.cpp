@@ -1,32 +1,48 @@
+struct Node {
+    int value;
+    int minVal;
+    Node* next;
+
+    Node(int v, int m) {
+        value = v;
+        minVal = m;
+        next = NULL;
+    }
+};
 class MinStack {
 public:
-vector<int> arr;
-vector<int> mini;
+    Node* head;
     MinStack() {
-        
+        head = NULL;
     }
     
     void push(int value) {
-        arr.push_back(value);
-        if (mini.empty()) {
-            mini.push_back(value);
+        if (head == NULL ) {
+            head = new Node(value,value);
         }
         else {
-            mini.push_back(min(mini.back(),value));
+            int newMin = min(value,head->minVal);
+            Node* temp = new Node(value, newMin);
+            temp->next = head;
+            head = temp;
         }
     }
     
     void pop() {
-        arr.pop_back();
-        mini.pop_back();
+        if (head == NULL) return;
+        Node* temp = head;
+        head = head->next;
+        delete temp;
     }
     
     int top() {
-        return arr.back();
+        if (head == NULL) return -1;
+        return head->value;
     }
     
     int getMin() {
-        return mini.back();
+        if (head == NULL) return -1;
+        return head->minVal;
     }
 };
 
