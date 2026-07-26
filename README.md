@@ -187,6 +187,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -211,6 +212,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -230,4 +232,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
