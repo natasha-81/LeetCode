@@ -151,6 +151,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/natasha-81/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/natasha-81/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/natasha-81/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
@@ -187,6 +188,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/natasha-81/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
