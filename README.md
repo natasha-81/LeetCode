@@ -51,6 +51,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/natasha-81/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/natasha-81/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -118,6 +119,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
 | ------- |
