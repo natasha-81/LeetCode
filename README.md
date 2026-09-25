@@ -43,6 +43,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natasha-81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/natasha-81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/natasha-81/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/natasha-81/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/natasha-81/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
@@ -137,6 +138,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/natasha-81/LeetCode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/natasha-81/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/natasha-81/LeetCode/tree/master/0263-ugly-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/natasha-81/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Greedy
@@ -202,6 +204,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/natasha-81/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/natasha-81/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/natasha-81/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
