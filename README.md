@@ -50,6 +50,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0503-next-greater-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/natasha-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/natasha-81/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +148,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/natasha-81/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -207,6 +209,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/natasha-81/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Recursion
