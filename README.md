@@ -218,6 +218,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/natasha-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -234,6 +235,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0496-next-greater-element-i](https://github.com/natasha-81/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -247,6 +249,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -256,6 +259,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
