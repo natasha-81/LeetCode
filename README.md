@@ -55,6 +55,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0704-binary-search](https://github.com/natasha-81/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/natasha-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/natasha-81/LeetCode/tree/master/0853-car-fleet) |
 | [1004-max-consecutive-ones-iii](https://github.com/natasha-81/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
@@ -124,6 +125,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
+| [0853-car-fleet](https://github.com/natasha-81/LeetCode/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/natasha-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -218,6 +220,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/natasha-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/natasha-81/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
@@ -235,6 +238,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0496-next-greater-element-i](https://github.com/natasha-81/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/natasha-81/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
