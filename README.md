@@ -82,6 +82,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0560-subarray-sum-equals-k](https://github.com/natasha-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/natasha-81/LeetCode/tree/master/0645-set-mismatch) |
+| [0895-maximum-frequency-stack](https://github.com/natasha-81/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +228,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0735-asteroid-collision](https://github.com/natasha-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/natasha-81/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/natasha-81/LeetCode/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/natasha-81/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
@@ -261,6 +263,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/natasha-81/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -287,4 +290,8 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/natasha-81/LeetCode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
