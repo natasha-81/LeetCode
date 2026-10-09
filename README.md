@@ -176,6 +176,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0020-valid-parentheses](https://github.com/natasha-81/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/natasha-81/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/natasha-81/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/natasha-81/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
@@ -219,6 +220,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/natasha-81/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/natasha-81/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/natasha-81/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/natasha-81/LeetCode/tree/master/0682-baseball-game) |
@@ -235,6 +237,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0021-merge-two-sorted-lists](https://github.com/natasha-81/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/natasha-81/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/natasha-81/LeetCode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
