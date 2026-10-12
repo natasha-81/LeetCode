@@ -76,6 +76,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0076-minimum-window-substring](https://github.com/natasha-81/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/natasha-81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/natasha-81/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/natasha-81/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/natasha-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
@@ -202,6 +203,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0025-reverse-nodes-in-k-group](https://github.com/natasha-81/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/natasha-81/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/natasha-81/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/natasha-81/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/natasha-81/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/natasha-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -262,6 +264,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/natasha-81/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/natasha-81/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -272,6 +275,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/natasha-81/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Data Stream
