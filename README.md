@@ -80,6 +80,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0160-intersection-of-two-linked-lists](https://github.com/natasha-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/natasha-81/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/natasha-81/LeetCode/tree/master/0229-majority-element-ii) |
+| [0460-lfu-cache](https://github.com/natasha-81/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/natasha-81/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/natasha-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/natasha-81/LeetCode/tree/master/0567-permutation-in-string) |
@@ -210,6 +211,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0234-palindrome-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/natasha-81/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/natasha-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -268,6 +270,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | [0155-min-stack](https://github.com/natasha-81/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/natasha-81/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/natasha-81/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/natasha-81/LeetCode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/natasha-81/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/natasha-81/LeetCode/tree/master/0901-online-stock-span) |
@@ -277,6 +280,7 @@ I regularly update this repository with new LeetCode solutions as I continue my 
 | ------- |
 | [0146-lru-cache](https://github.com/natasha-81/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/natasha-81/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/natasha-81/LeetCode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/natasha-81/LeetCode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
